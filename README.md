@@ -18,7 +18,7 @@ HTML, CSS, JavaScript
 
 📂 How to Run
 
-Just open index.html in any browser.
+Just open stopwatch.html in any browser.
 (No setup required.)
 
 📌 Highlights
